@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76882508838",
+    "project_id": "fastfooddapp",
+    "storage_bucket": "fastfooddapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76882508838:android:600b310b9de9b7dd41bae7",
+        "android_client_info": {
+          "package_name": "com.example.fastgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACN8-GWVaj3ZOC5-u5jT5TlkK4psRrFaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
